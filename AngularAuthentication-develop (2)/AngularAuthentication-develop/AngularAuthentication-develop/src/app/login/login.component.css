@@ -1,0 +1,14 @@
+.bg{
+    background: rgb(101, 184, 226)
+}
+#login_img{
+    margin: 90px 0 0 80px;
+}
+.btn{
+    border: 2px solid rgb(8, 91, 117);
+    color: rgb(4, 48, 58);
+}
+.btn:hover{
+    background-color: rgb(100, 200, 236);
+    color: black;
+}
